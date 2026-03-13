@@ -195,7 +195,7 @@ class FileSaver
     {
         List<string> lines = new List<string>();
 
-        // Header lines
+        // header lines
         lines.Add("# Fuel Format: FUEL | Date | Gallons | Cost | Mileage");
         lines.Add("# Maintenance Format: MAINTENANCE| Service Type | Date | Mileage | Interval Miles");
         lines.Add("-------------------------------------------------------------------------");
