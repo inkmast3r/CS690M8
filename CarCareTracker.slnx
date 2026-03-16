@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CarCareTracker.Tests/CarCareTracker.Tests.csproj" />
+  <Project Path="CarCareTracker/CarCareTracker.csproj" />
+</Solution>
