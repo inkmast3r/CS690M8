@@ -1,0 +1,12 @@
+* FUEL| Date | Gallons | Cost | Mileage
+---------------------------------------
+                                                                                 
+* MAINTENANCE| Service | Date | Mileage | Interval
+-------------------------------------------------
+                                                                                 
+* ISSUE| Date | Description
+---------------------------
+                                                                                 
+* INSURANCE| Provider | RenewalDate
+-----------------------------------
+INSURANCE| State Farm | 2026-08-01

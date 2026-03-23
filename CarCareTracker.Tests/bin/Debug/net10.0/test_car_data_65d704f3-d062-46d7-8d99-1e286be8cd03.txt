@@ -1,0 +1,13 @@
+* FUEL| Date | Gallons | Cost | Mileage
+---------------------------------------
+                                                                                 
+* MAINTENANCE| Service | Date | Mileage | Interval
+-------------------------------------------------
+MAINTENANCE| Oil Change | 2026-01-23 | 51000 mi | 3000 mi.
+                                                                                 
+* ISSUE| Date | Description
+---------------------------
+                                                                                 
+* INSURANCE| Provider | RenewalDate
+-----------------------------------
+INSURANCE|  | 

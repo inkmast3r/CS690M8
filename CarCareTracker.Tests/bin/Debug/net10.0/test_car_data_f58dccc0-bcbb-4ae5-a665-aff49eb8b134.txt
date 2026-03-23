@@ -1,0 +1,13 @@
+* FUEL| Date | Gallons | Cost | Mileage
+---------------------------------------
+FUEL| 2026-03-05 | 20G | $40.00 | 52000 mi
+                                                                                 
+* MAINTENANCE| Service | Date | Mileage | Interval
+-------------------------------------------------
+                                                                                 
+* ISSUE| Date | Description
+---------------------------
+                                                                                 
+* INSURANCE| Provider | RenewalDate
+-----------------------------------
+INSURANCE|  | 

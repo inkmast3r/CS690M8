@@ -9,8 +9,8 @@ MAINTENANCE| Oil Change | 2026-02-28 | 51000 mi | 3000 mi.
                                                                                  
 * ISSUE| Date | Description
 ---------------------------
-ISSUE| 2026-03-22 | Engine Knocking
-ISSUE| 2026-03-22 | Fog lights too dim
+ISSUE| 2026-03-23 | Engine Knocking
+ISSUE| 2026-03-23 | Fog lights too dim
                                                                                  
 * INSURANCE| Provider | RenewalDate
 -----------------------------------

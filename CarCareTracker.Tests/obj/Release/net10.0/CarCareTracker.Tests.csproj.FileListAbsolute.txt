@@ -100,3 +100,4 @@
 /Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker.Tests/obj/Release/net10.0/CarCareTracker.Tests.pdb
 /Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker.Tests/obj/Release/net10.0/CarCareTracker.Tests.genruntimeconfig.cache
 /Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker.Tests/obj/Release/net10.0/ref/CarCareTracker.Tests.dll
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker.Tests/obj/Release/net10.0/CarCareTracker.Tests.sourcelink.json

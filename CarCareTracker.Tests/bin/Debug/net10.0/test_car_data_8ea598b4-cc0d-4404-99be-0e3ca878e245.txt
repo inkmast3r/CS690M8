@@ -1,0 +1,13 @@
+* FUEL| Date | Gallons | Cost | Mileage
+---------------------------------------
+                                                                                 
+* MAINTENANCE| Service | Date | Mileage | Interval
+-------------------------------------------------
+                                                                                 
+* ISSUE| Date | Description
+---------------------------
+ISSUE| 2026-03-10 | Check engine light
+                                                                                 
+* INSURANCE| Provider | RenewalDate
+-----------------------------------
+INSURANCE|  | 
