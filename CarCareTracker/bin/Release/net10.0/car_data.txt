@@ -1,0 +1,17 @@
+* FUEL| Date | Gallons | Cost | Mileage
+---------------------------------------
+FUEL| 2026-03-02 | 22G | $55.00 | 51000 mi
+FUEL| 2026-03-23 | 13G | $38.00 | 51600 mi
+                                                                                 
+* MAINTENANCE| Service | Date | Mileage | Interval
+-------------------------------------------------
+MAINTENANCE| Oil Change | 2026-02-28 | 51000 mi | 3000 mi.
+                                                                                 
+* ISSUE| Date | Description
+---------------------------
+ISSUE| 2026-03-22 | Engine Knocking
+ISSUE| 2026-03-22 | Fog lights too dim
+                                                                                 
+* INSURANCE| Provider | RenewalDate
+-----------------------------------
+INSURANCE| Progressive | 2026-06-07

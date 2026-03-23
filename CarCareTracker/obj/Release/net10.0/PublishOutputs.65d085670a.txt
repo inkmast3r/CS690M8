@@ -1,0 +1,5 @@
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/bin/Release/net10.0/publish/CarCareTracker
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/bin/Release/net10.0/publish/CarCareTracker.dll
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/bin/Release/net10.0/publish/CarCareTracker.deps.json
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/bin/Release/net10.0/publish/CarCareTracker.runtimeconfig.json
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/bin/Release/net10.0/publish/CarCareTracker.pdb

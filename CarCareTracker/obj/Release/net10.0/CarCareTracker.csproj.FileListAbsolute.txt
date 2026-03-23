@@ -1,0 +1,14 @@
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/bin/Release/net10.0/CarCareTracker
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/bin/Release/net10.0/CarCareTracker.deps.json
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/bin/Release/net10.0/CarCareTracker.runtimeconfig.json
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/bin/Release/net10.0/CarCareTracker.dll
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/bin/Release/net10.0/CarCareTracker.pdb
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/obj/Release/net10.0/CarCareTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/obj/Release/net10.0/CarCareTracker.AssemblyInfoInputs.cache
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/obj/Release/net10.0/CarCareTracker.AssemblyInfo.cs
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/obj/Release/net10.0/CarCareTracker.csproj.CoreCompileInputs.cache
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/obj/Release/net10.0/CarCareTracker.dll
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/obj/Release/net10.0/refint/CarCareTracker.dll
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/obj/Release/net10.0/CarCareTracker.pdb
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/obj/Release/net10.0/CarCareTracker.genruntimeconfig.cache
+/Users/shariajohnson/Downloads/CS690FinalProject/CarCareTracker/obj/Release/net10.0/ref/CarCareTracker.dll
